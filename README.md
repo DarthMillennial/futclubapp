@@ -1,2 +1,1 @@
-# futclubapp
-Official repository for development webapp for FutClub
+Repositorio oficial da solução wed do futclub.
